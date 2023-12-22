@@ -9,7 +9,7 @@ I AM NOT RESPONSIBLE IF THEY BREAK YOUR SYSTEM, USE THEM CAREFULLY AND EDIT WHAT
 # Usage
 
 First off, clone the repository
-``` git clone ``` 
+``` git clone https://github.com/threee3k/Hackingtools.git  ``` 
 Secondly, choose which pack you want to install and do the following command
 If you're on a debian based distro
 ``` sudo apt install -r YOURPACK.txt ``` 
