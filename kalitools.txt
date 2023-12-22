@@ -1,0 +1,479 @@
+
+    acccheck
+    ace-voip
+    Amap
+    arp-scan
+    Automater
+    bing-ip2hosts
+    braa
+    Bro
+    CaseFile
+    CDPSnarf
+    cisco-torch
+    Cookie Cadger
+    copy-router-config
+    DMitry
+    dnmap
+    dnsenum
+    dnsmap
+    DNSRecon
+    dnstracer
+    dnswalk
+    DotDotPwn
+    enum4linux
+    enumIAX
+    exploitdb
+    Fierce
+    Firewalk
+    flashlight
+    fragroute
+    fragrouter
+    Ghost Phisher
+    GoLismero
+    goofile
+    hping3
+    HTTrack
+    Insiderer
+    InTrace
+    Intrigue-core
+    iptodomain
+    iSMTP
+    IVRE
+    lbd
+    Maltego
+    Masscan
+    MassMine
+    Metagoofil
+    Miranda
+    NetBIOS Share Scanner
+    NBTscan
+    nbtscan-unixwiz
+    Nmap
+    NMBscan
+    ntop
+    OSRFramework
+    p0f
+    Parsero
+    Recon-ng
+    SET
+    smtp-user-enum
+    snmpcheck
+    Sn1per
+    SPARTA
+    SpiderFoot
+    sslcaudit
+    SSLsplit
+    SSLstrip (SSLStrip+)
+    SSLyze
+    Sublist3r
+    THC-IPV6
+    theHarvester
+    TLSSLed
+    twofi
+    URLCrazy
+    WebXploiter
+    wig
+    Wireshark
+    WOL-E
+    Xplico
+    ZMap
+
+    BBQSQL
+    BED
+    cisco-auditing-tool
+    cisco-global-exploiter
+    cisco-ocs
+    cisco-torch
+    copy-router-config
+    DBPwAudit
+    Doona
+    DotDotPwn
+    Greenbone Security Assistant
+    GSD
+    HexorBase
+    Inguma
+    jSQL Injection
+    Lynis
+    Nmap
+    ohrwurm
+    openvas-administrator
+    openvas-cli
+    openvas-manager
+    openvas-scanner
+    Oscanner
+    Powerfuzzer
+    sfuzz
+    SidGuesser
+    SIPArmyKnife
+    sqlmap
+    Sqlninja
+    sqlsus
+    THC-IPV6
+    tnscmd10g
+    unix-privesc-check
+    Yersinia
+
+    3vilTwinAttacker
+    Airbase-ng
+    Aircrack-ng (Suite of Tools)
+    Aircrack-ng (Tool)
+    Aireplay-ng
+    airgeddon
+    Airmon-ng
+    Airodump-ng
+    Asleap
+    AtEar
+    Besside-ng
+    Bluelog
+    BlueMaho
+    Bluepot
+    BlueRanger
+    Bluesnarfer
+    BoopSuite
+    Bully
+    coWPAtty
+    crackle
+    create_ap
+    eapmd5pass
+    Easside-ng
+    Fern Wifi Cracker
+    Fluxion
+    Ghost Phisher
+    GISKismet
+    Gqrx
+    gr-scan
+    hack-captive-portals
+    HandShaker
+    hcxdumptool
+    hcxtools
+    infernal-twin
+    kalibrate-rtl
+    KillerBee
+    Kismet
+    LANs.py
+    linset
+    macchanger
+    Mana
+    mdk3
+    mdk4
+    mfcuk
+    mfoc
+    mfterm
+    mitmAP
+    Multimon-NG
+    OneShot
+    Penetrator-WPS
+    Pyrit
+    PixieWPS
+    Reaver (reaver-wps-fork-t6x)
+    redfang
+    Router Scan by Stas'M
+    RTLSDR Scanner
+    Spooftooph
+    trackerjacker
+    waidps
+    Wash
+    Wesside-ng
+    Wifi Honey
+    WiFi-autopwner
+    wifijammer
+    wifiphisher
+    WiFi-Pumpkin
+    Wifitap
+    Wifite
+    Wireless IDS
+    WPA2-HalfHandshake-Crack
+    zizzania
+
+    apache-users
+    Arachni
+    BBQSQL
+    BlindElephant
+    Burp Suite
+    CutyCapt
+    DAVTest
+    deblaze
+    DIRB
+    DirBuster
+    fimap
+    FunkLoad
+    Grabber
+    jboss-autopwn
+    joomscan
+    jSQL Injection
+    identYwaf
+    Maltego
+    Metasploit
+    PadBuster
+    Paros
+    Parsero
+    Plecost
+    Powerfuzzer
+    ProxyStrike
+    Recon-ng
+    Skipfish
+    Sn1per
+    sqlmap
+    Sqlninja
+    sqlsus
+    Sublert
+    Sublist3r
+    ua-tester
+    Uniscan
+    Vega
+    w3af (w3af_console)
+    w3af (w3af_gui)
+    WAFW00F
+    WebScarab
+    Webshag
+    WebSlayer
+    WebSploit
+    wig
+    Wfuzz
+    WhatWaf
+    WPScan
+    WPSploit
+    Xmlrpc brute
+    XSSer
+    zaproxy
+
+    arpwatch
+    Bash Scanner
+    Bless
+    Bro
+    bulk-extractor
+    Capstone
+    chntpw
+    Cuckoo
+    dc3dd
+    ddrescue
+    DFF
+    diStorm3
+    Dumpzilla
+    extundelete
+    Foremost
+    Galleta
+    Guymager
+    iPhone Backup Analyzer
+    p0f
+    pdf-parser
+    pdfid
+    pdgmail
+    peepdf
+    RegRipper
+    simple findbackdoor
+    usbrip
+    Volatility
+    waidps
+    Xplico
+
+    Armitage
+    Backdoor Factory
+    BeEF
+    cisco-auditing-tool
+    cisco-global-exploiter
+    cisco-ocs
+    cisco-torch
+    Commix
+    crackle
+    evilginx2
+    jboss-autopwn
+    Linux Exploit Suggester
+    Maltego
+    Metasploit
+    ngrok
+    Router Scan by Stas'M
+    SET
+    ShellNoob
+    Spraykatz
+    sqlmap
+    THC-IPV6
+    WPSploit
+    XPL SEARCH
+    Yersinia
+
+    DHCPig
+    FunkLoad
+    iaxflood
+    Inundator
+    inviteflood
+    ipv6-toolkit
+    mdk3
+    Reaver (reaver-wps-fork-t6x)
+    rtpflood
+    SlowHTTPTest
+    t50
+    Termineter
+    THC-IPV6
+    THC-SSL-DOS
+    wifijammer
+
+    arpspoof
+    Bettercap
+    Burp Suite
+    DNSChef
+    dns2proxy
+    Driftnet
+    etter.conf
+    Ettercap
+    Ettercap_curses и Ettercap-pkexec
+    ettercap-plugins
+    Etterfilter
+    Etterlog
+    fiked
+    hamster-sidejack
+    HexInject
+    iaxflood
+    inviteflood
+    iSMTP
+    isr-evilgrade
+    LANs.py
+    Mana
+    MITMf
+    mitmproxy
+    Net-Creds
+    ohrwurm
+    protos-sip
+    rebind
+    Responder
+    rtpbreak
+    rtpinsertsound
+    rtpmixsound
+    sctpscan
+    SIPArmyKnife
+    SIPp
+    SIPVicious
+    SniffJoke
+    SSLsplit
+    SSLstrip (SSLStrip+)
+    THC-IPV6
+    Urlsnarf
+    VoIPHopper
+    WebScarab
+    Webspy
+    Wifi Honey
+    Wireshark
+    xspy
+    Yersinia
+    zaproxy
+
+    acccheck
+    BruteX
+    Burp Suite
+    CeWL
+    chntpw
+    cisco-auditing-tool
+    CmosPwd
+    CrackLord
+    creddump
+    crunch
+    CUPP
+    DBPwAudit
+    findmyhash
+    gpp-decrypt
+    HAITI
+    hashcat
+    hashcat-utils
+    hash-identifier
+    HexorBase
+    John the Ripper
+    Johnny
+    keimpx
+    Maltego
+    Maskprocessor
+    Medusa
+    Mentalist
+    multiforcer
+    Name-That-Hash
+    Ncrack
+    oclgausscrack
+    oclHashcat
+    PACK
+    patator
+    phrasendrescher
+    princeprocessor
+    polenum
+    pydictor
+    RainbowCrack
+    rcracki-mt
+    RSMangler
+    Sn1per
+    SPARTA
+    SQLdict
+    Statsprocessor
+    THC-Hydra
+    THC-pptp-bruter
+    TrueCrack
+    WebScarab
+    Wordlists (dictionaries)
+    Xmlrpc brute
+    zaproxy
+
+    CryptCat
+    Cymothoa
+    dbd
+    dns2tcp
+    http-tunnel
+    HTTPTunnel
+    Intersect
+    Nishang
+    polenum
+    PowerSploit
+    Pupy
+    pwnat
+    RidEnum
+    sbd
+    U3-Pwn
+    Webshells
+    Weevely
+    Winexe
+
+    apktool
+    Binwalk
+    de4js
+    Detect It Easy
+    dex2jar
+    diStorm3
+    edb-debugger
+    jad
+    javasnoop
+    JD-GUI
+    JS Beautifier
+    JStillery
+    OllyDbg
+    Reverse
+    smali
+    TrID
+    UglifyJS
+    Valgrind
+    YARA
+    android-sdk
+    apktool
+    Appie
+    Arduino
+    dex2jar
+    Sakis3G
+    smali
+    CaseFile
+    CutyCapt
+    dos2unix
+    Dradis
+    KeepNote
+    MagicTree
+    Metagoofil
+    Nipper-ng
+    pipal
+    autovpn
+    autovpn2
+    autovpn3
+    mkp224o
+    ProxyChains-NG
+    Squid
+    TorIptables2
+    Tor Messenger
+    JSFuck
+    macchanger
+    mat2
+    Metadata-Cleaner
+    
+
