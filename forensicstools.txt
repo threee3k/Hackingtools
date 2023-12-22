@@ -1,0 +1,30 @@
+
+    arpwatch
+    Bash Scanner
+    Bless
+    Bro
+    bulk-extractor
+    Capstone
+    chntpw
+    Cuckoo
+    dc3dd
+    ddrescue
+    DFF
+    diStorm3
+    Dumpzilla
+    extundelete
+    Foremost
+    Galleta
+    Guymager
+    iPhone Backup Analyzer
+    p0f
+    pdf-parser
+    pdfid
+    pdgmail
+    peepdf
+    RegRipper
+    simple findbackdoor
+    usbrip
+    Volatility
+    waidps
+    Xplico

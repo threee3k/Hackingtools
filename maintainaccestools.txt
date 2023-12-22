@@ -1,0 +1,19 @@
+
+    CryptCat
+    Cymothoa
+    dbd
+    dns2tcp
+    http-tunnel
+    HTTPTunnel
+    Intersect
+    Nishang
+    polenum
+    PowerSploit
+    Pupy
+    pwnat
+    RidEnum
+    sbd
+    U3-Pwn
+    Webshells
+    Weevely
+    Winexe

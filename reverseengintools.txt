@@ -1,0 +1,20 @@
+
+    apktool
+    Binwalk
+    de4js
+    Detect It Easy
+    dex2jar
+    diStorm3
+    edb-debugger
+    jad
+    javasnoop
+    JD-GUI
+    JS Beautifier
+    JStillery
+    OllyDbg
+    Reverse
+    smali
+    TrID
+    UglifyJS
+    Valgrind
+    YARA
